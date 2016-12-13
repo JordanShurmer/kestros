@@ -1,0 +1,11 @@
+{
+  "jcr:primaryType": "sling:Folder",
+  "fullResource": {
+    "jcr:primaryType": "nt:unstructured",
+    "title": "Title Value",
+    "legacyTitle": "Legacy Title Value",
+    "description": "A Resource with properties",
+    "aDate": "Fri Dec 09 2016 10:13:20 GMT-0500",
+    "twoValues": ["value1", "value2"]
+  }
+}

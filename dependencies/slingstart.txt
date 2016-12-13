@@ -1,0 +1,11 @@
+[feature name=composum-console]
+
+[artifacts startLevel=20]
+
+  com.composum.sling.core/composum-sling-core-commons/1.7.0
+  com.composum.sling.core/composum-sling-core-console/1.7.0
+  com.composum.sling.core/composum-sling-core-jslibs/1.7.0
+  com.composum.sling.core/composum-sling-package-manager/1.7.0
+  com.composum.sling.core/composum-sling-user-management/1.7.0
+  org.apache.commons/commons-lang3/3.3.2
+
